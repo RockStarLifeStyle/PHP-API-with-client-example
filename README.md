@@ -21,10 +21,10 @@ The uid depends on your login
 
 
 # Get Hotels List
-To get hotel list you must to send GET request to this link: index.php?act=getHotels.
+To get hotels list you must to send GET request to this link: index.php?act=getHotels.
 
-Also to get hotel list you need to have 'uid' which you will get only when you passed login/registration.
-The API will return you hotel list like this: 
+Also to get hotels list you need to have 'uid' which you will get only when you passed login/registration.
+The API will return you hotels list like this: 
 > {"successful":true,"hotels": [{"id":"1","hotelName":"Hotel1","city":"Kiev","country":"Ukraine","stars":"5","cost":"300","info":"Info1","image":"https:\/\/images.pexels.com\/photos\/46710\/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350"},{"id":"2","hotelName":"Hotel2","city":"New York","country":"USA","stars":"5","cost":"500","info":"Info2","image":"https:\/\/images.pexels.com\/photos\/46710\/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350"}]}
 
 
