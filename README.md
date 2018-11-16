@@ -1,9 +1,7 @@
 # PHP-API-with-client-example
 This is my first PHP API with client example on C#.
 
-#Documentation
-
-#Action List:
+# Action List: 
 
 # Login
 To Login you must send POST request to index.php file with GET param 'act'.
