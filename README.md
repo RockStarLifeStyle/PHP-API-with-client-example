@@ -28,7 +28,7 @@ The API will return you hotels list like this:
 > {"successful":true,"hotels": [{"id":"1","hotelName":"Hotel1","city":"Kiev","country":"Ukraine","stars":"5","cost":"300","info":"Info1","image":"https:\/\/images.pexels.com\/photos\/46710\/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350"},{"id":"2","hotelName":"Hotel2","city":"New York","country":"USA","stars":"5","cost":"500","info":"Info2","image":"https:\/\/images.pexels.com\/photos\/46710\/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350"}]}
 
 
-# Get Comments list from the hotel
+# Get Comments list of the specific hotel
 To get comments list of the specific hotel you must to send GET request to this link: index.php?act=getComments, with GET param 'hid'(Hotel ID(The Hotel ID you can get in list of the hotels which return you previous action)) and with the uid in COOKIE like in prev. action.
 
 The example of return:
