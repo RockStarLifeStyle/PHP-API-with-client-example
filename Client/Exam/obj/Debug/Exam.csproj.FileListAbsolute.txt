@@ -1,0 +1,38 @@
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\bin\Debug\Exam.exe
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\bin\Debug\Exam.pdb
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.frmLogin.resources
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.exe
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.pdb
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.csproj.CopyComplete
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmMain.resources
+D:\OLD_comp\disk_f(d)\Рабочий Стол 02.09.2018\step\c# web\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmHotel.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmHotel.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmMain.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.FrmLogin.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmHotel.resources
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.Forms.FrmMain.resources
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.FrmLogin.resources
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\OSPanel\domains\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\OSPanel\domains\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\OSPanel\domains\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\OSPanel\domains\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\OSPanel\domains\Exam\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
