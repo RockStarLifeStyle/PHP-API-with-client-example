@@ -11,11 +11,11 @@ You must to send POST request to this link: index.php?act=register, with POST pa
 
 Both of this actions will return you answer in JSON format
 Example of the return:
-{"successful":false,"error":"fill all required fields!"}.
+> {"successful":false,"error":"fill all required fields!"}.
 
 So if "successful" is true the answer will be like this:
 
-{"successful":true,"error":null, "uid": "login"}.
+> {"successful":true,"error":null, "uid": "login"}.
 
 The uid depends on your login
 
