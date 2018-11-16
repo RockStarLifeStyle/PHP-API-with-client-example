@@ -9,7 +9,7 @@ So you must to send POST request to this link: index.php?act=login, with POST pa
 # Register
 You must to send POST request to this link: index.php?act=register, with POST params uname, password and email.
 
-Both of this actions will return you answer in JSON format
+Both of this actions will return you answer in JSON format.
 Example of the return:
 > {"successful":false,"error":"fill all required fields!"}.
 
