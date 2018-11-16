@@ -35,7 +35,7 @@ The example of return:
 > {"successful":true,"comments":[{"id":"1","user":"login","text":"Comment1"},{"id":"2","user":"login","text":"Comment2"}]}
 
 # Add Comment to the specific hotel
-To add a comment to a specific hotel you need to send POST request to this link: index.php?act=setComment, ofcorse with 'uid' in COOKIE and POST params 'comment' and 'hid'.
+To add a comment to a specific hotel you need to send POST request to this link: index.php?act=setComment, ofcourse with 'uid' in COOKIE and POST params 'comment' and 'hid'.
 
 The example of return:
 
